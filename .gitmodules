@@ -1,0 +1,3 @@
+[submodule "sg_utils_python"]
+	path = sg_utils_python
+	url = https://github.com/SemteulGaram/sg_utils_python.git
